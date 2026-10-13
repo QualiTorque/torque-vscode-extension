@@ -266,7 +266,7 @@
   "dependencies": {
     "axios": "^1.20.0",
     "date-fns": "^4.4.0",
-    "express": "^5.2.1",
+    "express": "^5.3.0",
     "husky": "^9.1.7",
     "js-yaml": "^5.4.3",
     "path-to-regexp": "^8.4.2"
