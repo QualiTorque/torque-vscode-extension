@@ -269,7 +269,7 @@
     "express": "^5.3.0",
     "husky": "^9.1.7",
     "js-yaml": "^5.5.0",
-    "path-to-regexp": "^8.4.2"
+    "path-to-regexp": "^9.0.0"
   },
   "overrides": {
     "diff": "^9.0.0",
